@@ -1,0 +1,9 @@
+6-
+a)Difference entre "git pull" et "git fetch"
+  "git pull" est utilise pour fusionner toutes les modifications presentes sur le depot didtant dans le repertoirede travail local tandisque "git fetch" permet a un utilisateur d'extraire tous les fichiers du depot distant qui ne sont  pas actuellement dans le repertoire de travail local.
+b)
+  On annule les modifications locales avec la commandes "git reset --hard"
+c) Supprimer branch distante dans git
+Pour supprimer une branche distante on utilise la commande "git push --delete"
+d) Voir l'historique
+"git log"
